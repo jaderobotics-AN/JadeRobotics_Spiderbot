@@ -1,6 +1,6 @@
 #include <movements.h>
 
-int servoPins[NUM_SERVOS] = {3,5,6,9,10,11,12,13};
+int servoPins[NUM_SERVOS] = {2,3,4,5,6,7,8,9};
 
 void setup() {
   initServos(servoPins);

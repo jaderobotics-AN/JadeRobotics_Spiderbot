@@ -1,0 +1,11 @@
+name=JadeRobotics_Spiderbot
+version=1.0.1
+author=Jade Robotics <jaderoboticscontent@gmail.com>
+maintainer=Jade Robotics <jaderoboticscontent@gmail.com>
+sentence=Smooth servo-based movement library for 8-servo SpiderBot robots.
+paragraph=Provides walking, rotation, posing, dancing, and action motion sequences using PROGMEM and smooth interpolation. Designed for SpiderBot-style robotics using Arduino boards.
+category=Device Control
+url=https://github.com/jaderobotics-AN/JadeRobotics_Spiderbot
+architectures=*
+license=MIT
+depends=
